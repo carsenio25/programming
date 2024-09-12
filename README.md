@@ -1,3 +1,3 @@
 - completed_assignment_programming.ipynb contains all of the assignment information aside from the spreadsheet
 - Q1.md contains a copy of the first question responses
-- 
+- HW0.xlsx contains the spreadsheet for question 1
